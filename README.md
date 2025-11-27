@@ -41,7 +41,7 @@ Environment: Works on Windows, macOS, Linux, or online compilers
 ⚙️ How to Run
 🖥️ Local Execution
 # Clone the repository
-git clone https://github.com/qusay-saify/CSE2006-24MIM10203-academic-planner.git
+git clone https://github.com/atishay-jain/CSE2006-24MIM10204-academic-planner.git
 cd CSE2006-24MIM10203-academic-planner
 
 # Compile
@@ -91,3 +91,4 @@ Integrated M.Tech in Artificial Intelligence & Machine Learning
 Course Code: CSE2006
 
 course name : programming in java 
+
